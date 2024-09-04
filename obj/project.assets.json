@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webapp06\\WebApp06\\WebApp06.csproj",
-      "projectName": "WebApp06",
-      "projectPath": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webapp06\\WebApp06\\WebApp06.csproj",
+      "projectUniqueName": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webApp06\\webApp06.csproj",
+      "projectName": "webApp06",
+      "projectPath": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webApp06\\webApp06.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webapp06\\WebApp06\\obj\\",
+      "outputPath": "D:\\Programas_nao_eliminar\\ASP_NET_8_0_401\\webApp06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artur\\AppData\\Roaming\\NuGet\\NuGet.Config",
